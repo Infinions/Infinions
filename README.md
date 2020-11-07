@@ -1,8 +1,8 @@
 # Infinions
 
 ## Team
-* Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
 * Bárbara Andreia Cardoso Ferreira; a80453; barbara29
+* Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
  
 
 ## Organization repositories
