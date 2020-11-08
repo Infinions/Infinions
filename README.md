@@ -6,6 +6,7 @@
 * Jéssica Andreia Fernandes Lemos; a82061; jessicalemos
 * João Pedro Machado Vilaça; a82339; machadovilaca 
 * Bruno Manuel Chaves Martins; a80410; BrunoMartins11
+* Márcio Alexandre Mota Sousa; a82400; dunnadan
 
 ## Organization repositories
 * [infin](https://github.com/Infinions/infin) - Main application
