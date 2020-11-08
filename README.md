@@ -4,6 +4,7 @@
 * Bárbara Andreia Cardoso Ferreira; a80453; barbara29
 * Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
 * João Pedro Machado Vilaça; a82339; machadovilaca 
+* Bruno Manuel Chaves Martins; a80410; BrunoMartins11
 
 ## Organization repositories
 * [infin](https://github.com/Infinions/infin) - Main application
