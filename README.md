@@ -3,6 +3,7 @@
 ## Team
 * Bárbara Andreia Cardoso Ferreira; a80453; barbara29
 * Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
+* Jéssica Andreia Fernandes Lemos; a82061; jessicalemos
 * João Pedro Machado Vilaça; a82339; machadovilaca 
 * Bruno Manuel Chaves Martins; a80410; BrunoMartins11
 
