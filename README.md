@@ -2,14 +2,14 @@
 
 ## Team
 * Bárbara Andreia Cardoso Ferreira; a80453; barbara29
-* Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
-* Jéssica Andreia Fernandes Lemos; a82061; jessicalemos
-* João Pedro Machado Vilaça; a82339; machadovilaca
 * Bruno Manuel Chaves Martins; a80410; BrunoMartins11
-* Márcio Alexandre Mota Sousa; a82400; dunnadan
-* João Manuel Pós de Mina Grenhas; pg33874;JMGrenhas
 * Catarina Araújo Machado; a81047; catarinamachado
+* Eduardo Jorge Lima Pinto Barbosa; a83344; herulume
 * Filipe Pimenta Oliveira Monteiro; a80229; pimonteiro
+* Jéssica Andreia Fernandes Lemos; a82061; jessicalemos
+* João Manuel Pós de Mina Grenhas; pg33874;JMGrenhas
+* João Pedro Machado Vilaça; a82339; machadovilaca
+* Márcio Alexandre Mota Sousa; a82400; dunnadan
 
 ## Organization repositories
 * entrypoint
