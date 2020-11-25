@@ -18,5 +18,5 @@
         * [requisitos](https://github.com/Infinions/entrypoint/tree/main/relatorios/requisitos.pdf) - Requirements report
 * [infin](https://github.com/Infinions/infin) - Main application
 * [pt.gov.portaldasfinancas.faturas](https://github.com/Infinions/pt.gov.portaldasfinancas.faturas) - API to fetch invoices from Portal das Finanças
-* [ML-Work](https://github.com/Infinions/ML-Work) - Machine learning models
+* [ML Data Analytics](https://github.com/Infinions/ml-data-analytics) - Machine learning models
 * [requirements](https://github.com/Infinions/requirements) - Formal requirements in Alloy
