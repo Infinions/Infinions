@@ -16,6 +16,7 @@
     * [atas](https://github.com/Infinions/entrypoint/tree/main/atas) - Meeting notes
     * [relatorios](https://github.com/Infinions/entrypoint/tree/main/relatorios) - Reports
         * [requisitos](https://github.com/Infinions/entrypoint/tree/main/relatorios/requisitos.pdf) - Requirements report
+        * [report_draft](https://github.com/Infinions/entrypoint/tree/main/relatorios/draft.pdf) - Final report draft
     * [apresentacoes](https://github.com/Infinions/entrypoint/tree/main/apresentacoes) - Presentations
 * [infin](https://github.com/Infinions/infin) - Main application
 * [pt.gov.portaldasfinancas.faturas](https://github.com/Infinions/pt.gov.portaldasfinancas.faturas) - API to fetch invoices from Portal das Finanças
