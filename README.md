@@ -12,12 +12,13 @@
 * Márcio Alexandre Mota Sousa; a82400; dunnadan
 
 ## Organization repositories
-* entrypoint
-    * [atas](https://github.com/Infinions/entrypoint/tree/main/atas) - Meeting notes
-    * [relatorios](https://github.com/Infinions/entrypoint/tree/main/relatorios) - Reports
-        * [requisitos](https://github.com/Infinions/entrypoint/tree/main/relatorios/requisitos.pdf) - Requirements report
-        * [report_draft](https://github.com/Infinions/entrypoint/tree/main/relatorios/draft.pdf) - Final report draft
-    * [apresentacoes](https://github.com/Infinions/entrypoint/tree/main/apresentacoes) - Presentations
+* Infinions
+    * [Meeting notes](https://github.com/Infinions/entrypoint/tree/main/atas)
+    * [Reports](https://github.com/Infinions/entrypoint/tree/main/reports)
+        * [Technical Report](https://github.com/Infinions/entrypoint/tree/main/reports/TechnicalReport.pdf)
+        * [Business Case](https://github.com/Infinions/entrypoint/tree/main/reports/BusinessCase.pdf)
+        * [Financial Analysis](https://github.com/Infinions/entrypoint/tree/main/reports/FinancialAnalysis.xlsm)
+    * [Presentations](https://github.com/Infinions/entrypoint/tree/main/presentations)
 * [infin](https://github.com/Infinions/infin) - Main application
 * [pt.gov.portaldasfinancas.faturas](https://github.com/Infinions/pt.gov.portaldasfinancas.faturas) - API to fetch invoices from Portal das Finanças
 * [ML Data Analytics](https://github.com/Infinions/ml-data-analytics) - Machine learning models
